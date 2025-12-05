@@ -1,4 +1,4 @@
-<h1 align="center"><b>NOOBIE INSTALLER</b>/h1>
+<h1 align="center"><b>NOOBIE INSTALLER</b></h1>
 
 <p align="center"><b>Complete Ethical Hacking Environment Setup</b></p>
 
