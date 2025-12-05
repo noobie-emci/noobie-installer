@@ -1,4 +1,4 @@
-                            # *NOOBIE INSTALLER*
+                            # **NOOBIE INSTALLER **
 <p align="center"> Complete Ethical Hacking Environment Setup </p>
 
 <p align="center">
