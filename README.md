@@ -1,5 +1,7 @@
-                            # **NOOBIE INSTALLER **
-<p align="center"> Complete Ethical Hacking Environment Setup </p>
+# **NOOBIE INSTALLER**
+
+<p align="center"><b>Complete Ethical Hacking Environment Setup</b></p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/noobie-emci/noobie-team/main/noobie-sources/noobie-team_banner.png" alt="Noobie Team Banner" width="800" />
